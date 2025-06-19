@@ -89,3 +89,5 @@ This dashboard is intended for internal analysis and educational use only. Not f
 ---
 
 > 💡 **Tip:** Use slicers or filters within Power BI to explore the report further by year, country, or product segment.
+
+![alt text](<Screenshot 2025-06-19 115021.png>)
